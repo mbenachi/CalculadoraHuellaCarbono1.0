@@ -65,4 +65,7 @@ public class CalculadoraHuellaCarbonoV1 {
         }
         return huellaTransporte;
     }
+   // Esto es un comentario de prueba
 }
+
+
